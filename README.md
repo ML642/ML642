@@ -42,13 +42,12 @@ A software developer specializing in frontend development, passionate about buil
 </div>
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ML642&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ML642&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ML642&theme=radical&row=2&column=3)
 
-<div align="center">
-  
-![Marcin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ML642&show_icons=true&theme=radical&hide_border=true)
+<!-- Simple metrics -->
+![Followers](https://img.shields.io/github/followers/ML642?style=for-the-badge&label=Followers&color=blue)
+![Repositories](https://img.shields.io/badge/Public_Repos-0-blue?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ML642&color=green&style=for-the-badge)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ML642&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ML642&theme=radical&hide_border=true)
-
-</div>
