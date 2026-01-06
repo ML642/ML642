@@ -45,10 +45,10 @@ A software developer specializing in frontend development, passionate about buil
 
 <div align="center">
   
-![Marcin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)
+![Marcin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ML642&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ML642&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ML642&theme=radical&hide_border=true)
 
 </div>
