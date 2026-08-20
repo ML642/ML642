@@ -1,5 +1,4 @@
-# Hi there 👋 My name is Marcin
-
+# Hello there
 **Software Developer | Frontend**
 
 A software developer specializing in frontend development, passionate about building eye-catching designs while maintaining high-performance applications. Combining engineering principles with creative design to build scalable, efficient, and user-friendly web solutions.
