@@ -1,54 +1,99 @@
-# Hello there
-**Software Developer | Frontend**
-
-A software developer specializing in frontend development, passionate about building eye-catching designs while maintaining high-performance applications. Combining engineering principles with creative design to build scalable, efficient, and user-friendly web solutions.
-
-## 🛠️ Technical Stack
-
-### **Programming Languages**
 <div align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+
+
+
+**Backend Engineering · Open Source · Competitive Programming**
+
+TypeScript / Node.js developer focused on backend systems, reliability, concurrency and clean architecture.
+
+[GitHub](https://github.com/ML642) · [Pull Requests](https://github.com/pulls?q=is%3Apr+author%3AML642)
+
 </div>
 
-### **Frontend Development**
+---
+
+## Engineering
+
+I enjoy working on problems where application code meets real system behavior: authentication, networking, concurrency, data consistency and service boundaries.
+
+**Core stack**
+
+`TypeScript` `Node.js` `Express` `C++` `Java` `MongoDB` `Redis` `RabbitMQ` `Docker` `Linux`
+
+---
+
+## Open Source
+
+I contribute fixes, regression tests and documentation to established open-source projects.
+
+### WebdriverIO
+
+- Fixed IPv6 serialization for BiDi WebSocket candidate URLs and added regression coverage  
+  [webdriverio/webdriverio#15516](https://github.com/webdriverio/webdriverio/pull/15516)
+
+- Fixed classic `browser.getCookies()` filtering when multiple filter attributes are supplied  
+  [webdriverio/webdriverio#15537](https://github.com/webdriverio/webdriverio/pull/15537)
+
+- Improved Actions API documentation  
+  [webdriverio/webdriverio#15536](https://github.com/webdriverio/webdriverio/pull/15536)
+
+### Tapflow
+
+- Fixed an overdue timer/request edge case that could trigger duplicate network-state requests
+- Added deterministic scheduler tests and integration coverage around relay behavior  
+  [jo-duchan/tapflow#656](https://github.com/jo-duchan/tapflow/pull/656)
+
+[View all contributions →](https://github.com/pulls?q=is%3Apr+author%3AML642)
+
+---
+
+## Main Project
+
+### [Movie Reservation System](https://github.com/ML642/movie-reservation)
+
+Backend-oriented reservation platform designed around explicit domain boundaries and independently deployable services.
+
+`TypeScript` `Node.js` `Express` `MongoDB` `RabbitMQ` `Docker`
+
+Key engineering points:
+
+- Domain-Driven Design and Ports & Adapters
+- API Gateway and service-oriented backend structure
+- OAuth 2.0 with Google and GitHub
+- short-lived access tokens and rotating refresh tokens
+- hashed refresh tokens with replay protection
+- RabbitMQ-based domain events
+- MongoDB transactions
+- database-level double-booking protection
+- unit and integration testing
+
+---
+
+## Competitive Programming
+
+I practice algorithms and data structures in **C++**, with a focus on **Codeforces** and **ICPC-style** contests.
+
+Current areas:
+
+`graphs` · `dynamic programming` · `greedy` · `binary search` · `trees` · `number theory`
+
+---
+
+## Tech
+
+| Area | Tools |
+| --- | --- |
+| Languages | TypeScript, JavaScript, C++, Java, Python, SQL |
+| Backend | Node.js, Express, REST, OAuth 2.0, JWT |
+| Databases | MongoDB, Redis, SQL |
+| Messaging | RabbitMQ |
+| Infrastructure | Docker, Docker Compose, Linux, Git, GitHub Actions |
+| Frontend | React, Vite, TanStack Query |
+
+---
+
 <div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion">
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</div>
 
-### **Backend & Scripting**
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/PyGame-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="PyGame">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-</div>
-
-### **Development Tools**
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-</div>
-
-<div align="center">
-
-<!-- Working alternative to github-readme-stats -->
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ML642&theme=radical)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ML642&theme=radical)
-
-
-<!-- Simple metrics -->
-![Followers](https://img.shields.io/github/followers/ML642?style=for-the-badge&label=Followers&color=blue)
-![Profile Views](https://komarev.com/ghpvc/?username=ML642&color=green&style=for-the-badge)
+### Build things. Read the failure mode. Fix the abstraction.
 
 </div>
