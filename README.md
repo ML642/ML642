@@ -4,8 +4,6 @@
 
 TypeScript / Node.js developer building full-stack applications with a focus on backend systems, reliability, clean architecture and practical frontend engineering.
 
-[GitHub](https://github.com/ML642) · [Pull Requests](https://github.com/pulls?q=is%3Apr+author%3AML642)
-
 </div>
 
 ---
@@ -16,36 +14,73 @@ I enjoy working across the stack, from responsive interfaces and client-side dat
 
 **Core stack**
 
-`TypeScript` `Node.js` `React` `Express` `C++` `Java` `MongoDB` `Redis` `RabbitMQ` `Docker` `Linux`
+`TypeScript` `Node.js` `React` `Express` `C++`  `MongoDB` `Redis` `RabbitMQ` `Docker` `Linux`
 
 ---
 
 ## Open Source
 
-I contribute fixes, regression tests and documentation to established open-source projects.
+I contribute production bug fixes, regression tests and reliability improvements to established open-source projects.
 
 ### WebdriverIO
 
-* Fixed IPv6 serialization for BiDi WebSocket candidate URLs and added regression coverage
-  [webdriverio/webdriverio#15516](https://github.com/webdriverio/webdriverio/pull/15516)
+**15+ pull requests · fixes shipped in multiple releases · ~2M weekly npm downloads**
 
-* Fixed classic `browser.getCookies()` filtering when multiple filter attributes are supplied
-  [webdriverio/webdriverio#15537](https://github.com/webdriverio/webdriverio/pull/15537)
+WebdriverIO is a widely used browser and mobile automation framework in the JavaScript ecosystem.
 
-* Improved Actions API documentation
-  [webdriverio/webdriverio#15536](https://github.com/webdriverio/webdriverio/pull/15536)
+#### [#15621 — Fixed retained closed browser instances](https://github.com/webdriverio/webdriverio/pull/15621)
+
+Improved browser lifecycle handling by preventing closed browser instances from remaining registered in internal state.
+
+`browser lifecycle` · `state management` · `reliability`
+
+#### [#15620 — Fixed incorrect original module type handling in mock factory](https://github.com/webdriverio/webdriverio/pull/15620)
+
+Corrected module-type preservation in the mocking infrastructure to avoid incorrect runtime behavior when wrapping or restoring modules.
+
+`mocking` · `module systems` · `runtime correctness`
+
+#### [#15617 — Added bounded retries to the Sumo Logic reporter](https://github.com/webdriverio/webdriverio/pull/15617)
+
+Improved reporter reliability by introducing bounded retry behavior for failed synchronization attempts.
+
+`retry logic` · `reporting` · `fault tolerance`
+
+#### [#15552 — Rejected invalid timeout values](https://github.com/webdriverio/webdriverio/pull/15552)
+
+Added validation for invalid timeout inputs to prevent inconsistent runtime behavior and improve API correctness.
+
+`validation` · `error handling` · `runtime reliability`
+
+#### [#15537 — Fixed classic cookie filtering with multiple attributes](https://github.com/webdriverio/webdriverio/pull/15537)
+
+Corrected `browser.getCookies()` filtering so that all supplied attributes must match instead of accepting partial matches.
+
+`browser APIs` · `filtering semantics` · `regression testing`
+
+#### [#15516 — Fixed IPv6 serialization for BiDi WebSocket candidate URLs](https://github.com/webdriverio/webdriverio/pull/15516)
+
+Fixed invalid WebSocket candidate URL generation for IPv6 addresses in WebDriver BiDi connection logic and added regression coverage.
+
+`networking` · `WebDriver BiDi` · `IPv6` · `regression testing`
 
 ### Tapflow
 
-* Fixed an overdue timer/request edge case that could trigger duplicate network-state requests
-* Added deterministic scheduler tests and integration coverage around relay behavior
-  [jo-duchan/tapflow#656](https://github.com/jo-duchan/tapflow/pull/656)
+**5+ pull requests · mobile testing infrastructure · 800+ GitHub stars**
+
+Tapflow is a self-hosted platform for streaming and controlling iOS and Android simulators. 
+
+#### [#656 — Fixed duplicate network-state requests caused by timer/request race conditions](https://github.com/jo-duchan/tapflow/pull/656)
+
+Resolved an overdue timer/request edge case that could trigger duplicate network-state requests.
+
+Added deterministic scheduler tests and integration coverage around relay behavior.
+
+`concurrency` · `timers` · `networking` · `deterministic testing`
 
 [View all contributions →](https://github.com/pulls?q=is%3Apr+author%3AML642)
 
----
-
-## Selected Projects
+### Selected Projects
 
 ### [Movie Reservation System](https://github.com/ML642/movie-reservation)
 
