@@ -1,6 +1,6 @@
 <div align="center">
 
-**Full-Stack Engineering · Open Source  **
+**Full-Stack Engineering ·  Open Source**
 
 TypeScript / Node.js developer building full-stack applications with a focus on backend systems, reliability, clean architecture and practical frontend engineering.
 
