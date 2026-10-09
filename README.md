@@ -22,7 +22,7 @@ I enjoy working across the stack, from responsive interfaces and client-side dat
 
 I contribute production bug fixes, regression tests and reliability improvements to established open-source projects.
 
-### WebdriverIO
+### [WebdriverIO](https://github.com/webdriverio/webdriverio)
 
 **15+ pull requests · fixes shipped in multiple releases · ~2M weekly npm downloads**
 
@@ -64,7 +64,7 @@ Fixed invalid WebSocket candidate URL generation for IPv6 addresses in WebDriver
 
 `networking` · `WebDriver BiDi` · `IPv6` · `regression testing`
 
-### Tapflow
+### [Tapflow](https://github.com/jo-duchan/tapflow)
 
 **5+ pull requests · mobile testing infrastructure · 800+ GitHub stars**
 
