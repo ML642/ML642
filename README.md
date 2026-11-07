@@ -139,7 +139,7 @@ Current areas:
 
 | Area           | Tools                                                |
 | -------------- | ---------------------------------------------------- |
-| Languages      | TypeScript, JavaScript, C++, Java, Python, SQL       |
+| Languages      | TypeScript, JavaScript, C , C++, C# , SQL       |
 | Backend        | Node.js, Express, REST, OAuth 2.0, JWT               |
 | Frontend       | React, Vite, TanStack Query, React Router, Mapbox GL |
 | Databases      | MongoDB, Redis, SQL                                  |
