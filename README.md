@@ -74,27 +74,31 @@ I expanded dashboard test coverage around reset behavior when the active agent c
 
 [Explore all my open-source pull requests →](https://github.com/pulls?q=is%3Apr+author%3AML642)
 
+
 ## Selected Projects
 
 ### [Movie Reservation System](https://github.com/ML642/movie-reservation)
 
-A full-stack reservation platform built around explicit domain boundaries, independently deployable backend services, and a React client application.
+Full-stack reservation platform designed around explicit domain boundaries, independently deployable backend services, and a React client application.
+
+**[Live Demo](https://movie-reservation-1-4uao.onrender.com/)** · **[Source Code](https://github.com/ML642/movie-reservation)**
 
 `TypeScript` `Node.js` `Express` `React` `MongoDB` `RabbitMQ` `Docker`
 
 **Key engineering points:**
 - Domain-Driven Design and Ports & Adapters
-- API Gateway and service-oriented backend architecture
-- Identity, Reservation, and Engagement services
-- Google and GitHub OAuth 2.0, JWT authentication, and rotating refresh tokens
-- Hashed refresh tokens with replay protection
+- API Gateway with Identity, Reservation, and Engagement services
+- Google and GitHub OAuth 2.0 authentication
+- JWT access tokens and rotating refresh tokens with replay protection
 - RabbitMQ-based domain events and asynchronous communication
 - MongoDB transactions and database-level double-booking protection
 - Unit and integration testing
 
-### MAPA Event Discovery Platform
+### [MAPABY — Event Discovery Platform](https://github.com/ML642/Mapa)
 
-A full-stack platform for discovering youth events through an interactive, map-oriented interface.
+Full-stack platform for discovering youth events through an interactive, map-oriented interface.
+
+**[Live Demo](https://frontend-ecru-alpha-77d5ceb795.vercel.app/)** · **[Source Code](https://github.com/ML642/Mapa)**
 
 `TypeScript` `React` `Vite` `Node.js` `Express` `MongoDB` `Redis` `Mapbox GL`
 
@@ -102,11 +106,10 @@ A full-stack platform for discovering youth events through an interactive, map-o
 - Responsive React interface with interactive event maps
 - Search, filtering, and event discovery workflows
 - REST API and Google OAuth authentication
-- TanStack Query for asynchronous server-state management
+- TanStack Query for server-state management
 - MongoDB-backed event storage and Redis caching
-- Docker-based deployment
+- Docker-based deployment setup
 
-[Live Demo →](https://frontend-ecru-alpha-77d5ceb795.vercel.app/)
 
 ## Experience & Achievements
 
