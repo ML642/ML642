@@ -113,10 +113,10 @@ Full-stack platform for discovering youth events through an interactive, map-ori
 
 ## Experience & Achievements
 
-**Software Developer Intern — Innowise (2026)**  
+**Software Developer Intern | Innowise (2026)**  
 Worked with backend development technologies including Node.js, NestJS, PostgreSQL, REST APIs, and Docker.
 
-**Top 3 — Google Student AI Hackathon Warsaw 2026**  
+**Top 3 | Google Student AI Hackathon Warsaw 2026**  
 Collaborated in a five-person team to develop a multi-agent web accessibility auditing platform using Gemini, browser automation, and Google Cloud.
 
 
