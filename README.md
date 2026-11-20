@@ -18,7 +18,7 @@ I contribute bug fixes, regression tests, and reliability improvements to establ
 
 ### [WebdriverIO](https://github.com/webdriverio/webdriverio)
 
-**17 merged pull requests · Browser automation and testing infrastructure**
+**19 merged pull requests · Browser automation and testing infrastructure**
 
 WebdriverIO is an open-source framework for browser and mobile automation. My contributions span browser lifecycle management, networking, asynchronous execution, mocking, and runtime correctness.
 
@@ -38,7 +38,7 @@ WebDriver BiDi connection fallback could generate invalid WebSocket URLs when an
 
 ### [Faker.js](https://github.com/faker-js/faker)
 
-**2 merged pull requests · Test data generation**
+**3 merged pull requests · Test data generation**
 
 Faker.js is a JavaScript and TypeScript library for generating realistic test data. My contributions focused on edge cases that could produce invalid results or prevent generation from completing.
 
